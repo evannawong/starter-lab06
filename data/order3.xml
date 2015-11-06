@@ -27,7 +27,7 @@ and open the template in the editor.
         <topping type="lettuce" />
         <topping type="bacon" />
         <topping type="roasted" />
-        <sauce type="peanut butter" />
         <sauce type="mayo" />
+        <instructions>peanut butter</instructions>
     </burger>
 </order>
